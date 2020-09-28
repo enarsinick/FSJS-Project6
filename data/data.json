@@ -7,9 +7,11 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
             "live_link": "https://www.google.co.uk/",
             "github_link": "https://github.com/enarsinick/FSJS-Project1",
-            "image_urls": [
-                "static/img/squareimg.jpg", 
-                "static/img/featureimgae.jpg"
+            "feature_image": "static/img/project1-550.jpg",
+            "image_urls": [ 
+                "static/img/project1-1200-1 (1).jpg",
+                "static/img/project1-1200-2.jpg",
+                "static/img/project1-1200-3.jpg"
             ]
         }, 
         {
@@ -19,9 +21,9 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
             "live_link": "https://www.google.co.uk/",
             "github_link": "https://github.com/enarsinick/FSJS-Project2",
-            "image_urls": [
-                "static/img/squareimg.jpg", 
-                "static/img/featureimgae.jpg"
+            "feature_image": "static/img/project2-550.jpg",
+            "image_urls": [ 
+                "static/img/project2-1200-1.jpg"
             ]
         },
         {
@@ -31,9 +33,11 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
             "live_link": "https://www.google.co.uk/",
             "github_link": "https://github.com/enarsinick/FSJS-Project3",
-            "image_urls": [
-                "static/img/squareimg.jpg", 
-                "static/img/featureimgae.jpg"
+            "feature_image": "static/img/project3-550.jpg",
+            "image_urls": [ 
+                "static/img/project3-1200-1.jpg",
+                "static/img/project3-1200-2.jpg",
+                "static/img/project3-1200-3.jpg"
             ]
         } 
     ]

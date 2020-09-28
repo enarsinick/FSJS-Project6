@@ -1,4 +1,5 @@
 const express = require('express');
+const { render } = require('pug');
 const app = express();
 
 // Setting the view engine to use pug and letting express know the static folder
@@ -17,9 +18,12 @@ app.use((req, res, next) => {
 
 app.use((err, req, res, next) => {
     res.locals.error = err;
-    res.status(err.status);
-    console.error(err.message, err.status);
-    res.render('error');
+    res.status(err.status || 500);
+    if (err.status === 404) {
+        res.render('page-not-found');
+    } else {
+        res.render('error')
+    }
 });
 
 // Start the server

@@ -3569,12 +3569,12 @@ select {
     display: block;
     width: 100%;
     height: 2px;
-    background: #fefefe;
-    box-shadow: 0 7px 0 #fefefe, 0 14px 0 #fefefe;
+    background: #615BE3;
+    box-shadow: 0 7px 0 #615BE3, 0 14px 0 #615BE3;
     content: ''; }
   .menu-icon:hover::after {
-    background: #cacaca;
-    box-shadow: 0 7px 0 #cacaca, 0 14px 0 #cacaca; }
+    background: #23314B;
+    box-shadow: 0 7px 0 #23314B, 0 14px 0 #23314B; }
 
 .menu-icon.dark {
   position: relative;
@@ -5002,7 +5002,7 @@ a.thumbnail {
 
 .title-bar {
   padding: 0.5rem;
-  background: #0a0a0a;
+  background: #E7E7E9;
   color: #fefefe;
   display: -ms-flexbox;
   display: flex;
@@ -5025,7 +5025,9 @@ a.thumbnail {
 .title-bar-title {
   display: inline-block;
   vertical-align: middle;
-  font-weight: bold; }
+  font-weight: bold;
+  color: #615BE3;
+}
 
 .has-tip {
   position: relative;

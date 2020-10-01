@@ -47,9 +47,11 @@
             "technologies": ["HTML", "CSS", "JavaScript", "OOP", "Git"],
             "live_link": "https://www.google.co.uk/",
             "github_link": "https://github.com/enarsinick/FSJS-Project4",
-            "feature_image": "static/img/squareimg.jpg",
+            "feature_image": "static/img/project4-1.png",
             "image_urls": [ 
-                "static/img/featureimgae.jpg"
+                "static/img/project4-2.png",
+                "static/img/project4-3.png",
+                "static/img/project4-4.png"
             ]
         }, 
         {
@@ -59,9 +61,10 @@
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API", "Git"],
             "live_link": "https://www.google.co.uk/",
             "github_link": "https://github.com/enarsinick/FSJS-Project5",
-            "feature_image": "static/img/squareimg.jpg",
+            "feature_image": "static/img/project5-1.png",
             "image_urls": [ 
-                "static/img/featureimgae.jpg"
+                "static/img/project5-2.png",
+                "static/img/project5-3.png"
             ]
         }  
     ]

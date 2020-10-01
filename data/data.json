@@ -39,6 +39,30 @@
                 "static/img/project3-1200-2.jpg",
                 "static/img/project3-1200-3.jpg"
             ]
-        } 
+        },
+        {
+            "id": 4,
+            "project_name": "OOP Game Show App",
+            "description": "A browser-based, word guessing game called Phrase Hunter. Using object orientated vanilla Javscript to select a random phrase that is displayed on the web page and the user has to try and guess it using the on screen keyboard or their own keyboard.",
+            "technologies": ["HTML", "CSS", "JavaScript", "OOP", "Git"],
+            "live_link": "https://www.google.co.uk/",
+            "github_link": "https://github.com/enarsinick/FSJS-Project4",
+            "feature_image": "static/img/squareimg.jpg",
+            "image_urls": [ 
+                "static/img/featureimgae.jpg"
+            ]
+        }, 
+        {
+            "id": 5,
+            "project_name": "Employee Directory",
+            "description": "A website that display randomly selected employees from an API using the Fetch API.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Fetch API", "Git"],
+            "live_link": "https://www.google.co.uk/",
+            "github_link": "https://github.com/enarsinick/FSJS-Project5",
+            "feature_image": "static/img/squareimg.jpg",
+            "image_urls": [ 
+                "static/img/featureimgae.jpg"
+            ]
+        }  
     ]
 }

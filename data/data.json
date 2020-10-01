@@ -5,7 +5,7 @@
             "project_name": "A random quote generator",
             "description": "A website that generates random quotes to a website",
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
-            "live_link": "https://www.google.co.uk/",
+            "live_link": "https://enarsinick.github.io/FSJS-Project1/",
             "github_link": "https://github.com/enarsinick/FSJS-Project1",
             "feature_image": "static/img/project1-550.jpg",
             "image_urls": [ 
@@ -19,7 +19,7 @@
             "project_name": "Page pagination",
             "description": "This project uses Vanilla JavaScript to create a pagination feature for a web page that is displaying students and their data.",
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
-            "live_link": "https://www.google.co.uk/",
+            "live_link": "https://enarsinick.github.io/FSJS-Project2/",
             "github_link": "https://github.com/enarsinick/FSJS-Project2",
             "feature_image": "static/img/project2-550.jpg",
             "image_urls": [ 
@@ -31,7 +31,7 @@
             "project_name": "Interactive Form",
             "description": "A HTML for that has been made interactive by using JavaScript",
             "technologies": ["HTML", "CSS", "JavaScript", "Git"],
-            "live_link": "https://www.google.co.uk/",
+            "live_link": "https://enarsinick.github.io/FSJS-Project3/",
             "github_link": "https://github.com/enarsinick/FSJS-Project3",
             "feature_image": "static/img/project3-550.jpg",
             "image_urls": [ 
@@ -45,7 +45,7 @@
             "project_name": "OOP Game Show App",
             "description": "A browser-based, word guessing game called Phrase Hunter. Using object orientated vanilla Javscript to select a random phrase that is displayed on the web page and the user has to try and guess it using the on screen keyboard or their own keyboard.",
             "technologies": ["HTML", "CSS", "JavaScript", "OOP", "Git"],
-            "live_link": "https://www.google.co.uk/",
+            "live_link": "https://enarsinick.github.io/FSJS-Project4/",
             "github_link": "https://github.com/enarsinick/FSJS-Project4",
             "feature_image": "static/img/project4-1.png",
             "image_urls": [ 
@@ -59,7 +59,7 @@
             "project_name": "Employee Directory",
             "description": "A website that display randomly selected employees from an API using the Fetch API.",
             "technologies": ["HTML", "CSS", "JavaScript", "Fetch API", "Git"],
-            "live_link": "https://www.google.co.uk/",
+            "live_link": "https://enarsinick.github.io/FSJS-Project5/",
             "github_link": "https://github.com/enarsinick/FSJS-Project5",
             "feature_image": "static/img/project5-1.png",
             "image_urls": [ 
